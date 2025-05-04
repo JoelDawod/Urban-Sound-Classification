@@ -33,4 +33,4 @@ To build an audio classification pipeline that:
 
 ## 📈 Training Visualizations
 ![Accuracy Plot](ACC_IMG.png)
-![Loss Plot](Loss_IMg.png)
+![Loss Plot](Loss IMg.png)
