@@ -32,5 +32,5 @@ To build an audio classification pipeline that:
 - Clear learning curves for training vs. validation
 
 ## 📈 Training Visualizations
-![Accuracy Plot](ACC_IMG.png)
-![Loss Plot](Loss IMg.png)
+![Accuracy Plot](Accuracy.png)
+![Loss Plot](Loss.png)
